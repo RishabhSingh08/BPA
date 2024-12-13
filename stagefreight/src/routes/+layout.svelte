@@ -1,4 +1,8 @@
-<script>import "../app.css";</script>
+<script>import "../app.css";
+
+  export const prerender = true;
+
+</script>
 
 <!-- <header class="bg-black text-white p-4">
 </header> -->
